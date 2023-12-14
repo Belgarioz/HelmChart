@@ -10,5 +10,5 @@ entries:
     type: application
     urls:
     - https://belgarioz.github.io/HelmChart/mychart/mychart-0.1.0.tgz
-    version: 0.1.0
+    version: 0.1.1
 generated: "2023-12-14T16:20:22.861727+01:00"
